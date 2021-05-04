@@ -1,0 +1,73 @@
+a:link {
+	color: red;
+}
+
+a:visited {
+	color: green;
+}
+
+a:hover {
+	color: hotpink;
+}
+
+a:active {
+	color:blue
+}
+
+#content {
+	background-color: grey;;
+	width: 1300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#navigation {
+	border: 2px solid black;
+	padding-top: 50px;
+}
+
+body {
+	background-color: #373f51;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ul {
+	display: flex;
+	justify-content: space-around;
+	list-style: none;
+	padding-bottom: 50px;
+}
+
+.flex-container {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.main-text {
+	width: 750px;
+	font-size: 23px;
+}
+
+.main-img {
+	padding-left: 20px;
+}
+
+footer {
+	text-align: center;
+	width: 1000px;
+	padding-top: 100px;
+	margin: auto auto;
+	font-size: 20px;
+}
+
+.foot {
+	margin-left: 20px;
+}
+
+
